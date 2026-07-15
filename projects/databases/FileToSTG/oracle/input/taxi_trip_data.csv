@@ -1,0 +1,6 @@
+pick_up_date,pick_up_time,drop_off_time,trip_distance,trip_fare,payment_method,cab_color,pickup_location,pickup_zone,dropoff_location,dropoff_zone
+2024-09-18,01:33:34,08:49:03,3.01,84.2,Venmo,white,Forest Hills,airport,Briarwood/Jamaica Hills,residential
+2024-02-02,08:27:20,08:03:59,4.45,85.97,mobile_payment,blue,Hillcrest/Pomonok,entertainment_district,Elmhurst/Maspeth,business_district
+2024-10-14,21:40:18,19:20:02,39.15,42.63,Venmo,blue,Highbridge,residential,Bensonhurst West,train_station
+2024-08-20,22:09:59,18:21:36,52.5,54.8,Venmo,black,Crown Heights North,residential,Maspeth,airport
+2024-08-18,04:21:29,11:19:01,67.95,15.15,Venmo,green,Co-Op City,entertainment_district,Seaport,business_district
